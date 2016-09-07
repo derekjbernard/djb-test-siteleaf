@@ -1,6 +1,7 @@
 ---
 title: homepage
 date: 2016-09-07 18:05:00 Z
+permalink: "/"
 ---
 
 This is my homepage.
