@@ -1,0 +1,698 @@
+---
+title: Raw?
+date: 2016-09-07 19:17:00 Z
+---
+
+{% raw %}
+
+<!DOCTYPE html>
+<html lang="en-US">
+	<head>
+		<title>Student Life at UCF - College Resources &amp; Activities, Student Clubs and Organizations</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- This site is optimized with the Yoast SEO plugin v3.4.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Inside &amp; outside the classroom, college life is vibrant &amp; diverse. Check out everything that UCF has to offer students - learn what it&#039;s like to be a Knight. Get involved in any of our 350 clubs and organizations. There&#039;s helpful academic advising, career assistance and financial aid - plus, you can attend concerts, intramural sports, athletic events and hundreds of other activities for you."/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://www.ucf.edu/students/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Student Life at UCF - College Resources &amp; Activities, Student Clubs and Organizations" />
+<meta property="og:description" content="Inside &amp; outside the classroom, college life is vibrant &amp; diverse. Check out everything that UCF has to offer students - learn what it&#039;s like to be a Knight. Get involved in any of our 350 clubs and organizations. There&#039;s helpful academic advising, career assistance and financial aid - plus, you can attend concerts, intramural sports, athletic events and hundreds of other activities for you." />
+<meta property="og:url" content="http://www.ucf.edu/students/" />
+<meta property="og:site_name" content="Student Life" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Inside &amp; outside the classroom, college life is vibrant &amp; diverse. Check out everything that UCF has to offer students - learn what it&#039;s like to be a Knight. Get involved in any of our 350 clubs and organizations. There&#039;s helpful academic advising, career assistance and financial aid - plus, you can attend concerts, intramural sports, athletic events and hundreds of other activities for you." />
+<meta name="twitter:title" content="Student Life at UCF - College Resources &amp; Activities, Student Clubs and Organizations" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/www.ucf.edu\/students\/","name":"Student Life","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.ucf.edu\/students\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.ucf.edu\/students\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.3"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='style-min-css'  href='http://www.ucf.edu/students/wp-content/themes/Students-Theme/static/css/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-cloudtypography-css'  href='//cloud.typography.com/730568/7491552/css/fonts.css' type='text/css' media='all' />
+<script type='text/javascript' src='//code.jquery.com/jquery-1.11.0.min.js?ver=4.5.3'></script>
+<link rel='https://api.w.org/' href='http://www.ucf.edu/students/wp-json/' />
+<link rel='shortlink' href='http://www.ucf.edu/students/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.ucf.edu/students/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.ucf.edu%2Fstudents%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.ucf.edu/students/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.ucf.edu%2Fstudents%2F&#038;format=xml" />
+<link rel="shortcut icon" href="http://www.ucf.edu/students/wp-content/themes/Students-Theme/static/img/favicon.ico">
+<link rel="alternate" type="application/rss+xml" href="http://www.ucf.edu/students/feed/rss/">	<!--[if lte IE 9]>
+	<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	
+
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style>		<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PCFVDL"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PCFVDL');</script>
+<!-- End Google Tag Manager -->
+	</head>
+	<body ontouchstart class="home page page-id-8 page-template-default">
+		<header class="site-header">
+			<div class="header-image" style="background-image: url(http://www.ucf.edu/students/files/2016/03/cropped-cropped-cropped-Header_Image2.jpg);">
+						<nav id="nav-header-wrap" role="navigation" class="screen-only hidden-xs hidden-sm">
+		<ul id="header-menu" class="menu-list-unstyled list-inline text-center horizontal">
+					<li><a href="http://www.ucf.edu/academics/">Academics</a></li>
+					<li><a href="http://www.ucf.edu/admissions/">Admissions</a></li>
+					<li><a href="http://www.ucf.edu/research/">Research</a></li>
+					<li><a href="http://www.ucf.edu/locations/">Locations</a></li>
+					<li><a href="//www.ucf.edu/students">Student Life</a></li>
+					<li><a href="http://www.ucf.edu/alumni-giving/">Alumni & Giving</a></li>
+					<li><a href="http://www.ucf.edu/athletics/">Athletics</a></li>
+					<li><a href="http://www.ucf.edu/apply-to-ucf/">Apply Now.</a></li>
+				</ul>
+	</nav>
+	<div class="container">
+		<nav id="site-nav-xs" class="hidden-md hidden-lg navbar navbar-inverse">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#header-menu-xs-collapse" aria-expanded="false">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<span class="navbar-title">Navigation</span>
+			</div>
+			<div class="collapse navbar-collapse" id="header-menu-xs-collapse">
+				<ul id="header-menu-xs" class="menu nav navbar-nav">
+									<li><a href="http://www.ucf.edu/academics/">Academics</a></li>
+									<li><a href="http://www.ucf.edu/admissions/">Admissions</a></li>
+									<li><a href="http://www.ucf.edu/research/">Research</a></li>
+									<li><a href="http://www.ucf.edu/locations/">Locations</a></li>
+									<li><a href="//www.ucf.edu/students">Student Life</a></li>
+									<li><a href="http://www.ucf.edu/alumni-giving/">Alumni & Giving</a></li>
+									<li><a href="http://www.ucf.edu/athletics/">Athletics</a></li>
+									<li><a href="http://www.ucf.edu/apply-to-ucf/">Apply Now.</a></li>
+								</ul>
+			</div>
+		</nav>
+	</div>
+				<div class="header-center">
+					<div class="title-wrapper">
+						<div class="title-header-container">
+								<h1 class="site-title">
+		<a href="http://www.ucf.edu/students">Student Life</a>
+	</h1>
+										<div class="weather">
+							<span class="icon" title="Fair">
+					<span class="wi wi-day-sunny"></span>
+				</span>
+						<span class="location">Orlando, FL</span>
+			<span class="vertical-rule"></span>
+			<span class="temp">88&deg;F</span>
+		</div>
+							</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<main class="site-main">
+<article>
+	<div class="container">
+		<div class="row page-wrap">
+			<div class="col-md-6 col-sm-6 col-xs-12">
+				<h2>Knight Life at UCF</h2>
+				<div class="content">
+					<p>Don’t just go to college &mdash; get the most out of it. UCF offers hundreds of social clubs and organizations, plus an array of academic resources to help students succeed in school and as alumni. From orientation to graduation, the UCF experience creates opportunities that last a lifetime</p>
+				</div>
+			</div>
+			<div class="col-md-4 col-md-offset-1 col-sm-6 col-xs-12">
+						<a class="call-to-action" href="http://transfer.sdes.ucf.edu/" target="_blank">
+			<img src="http://www.ucf.edu/students/files/2016/04/Ad-Transfer.jpg" alt="Thinking about Transferring to UCF?">
+			<h2 style="color: #ffffff">Thinking about Transferring to UCF?</h2>
+						<div class="btn-wrapper">
+				<span class="btn btn-lg btn-ucf" style="background: #ffcc00; color: #000000">
+					Transfer and Transition Services				</span>
+			</div>
+					</a>
+			</div>
+		</div>
+	</div>
+	<nav id="sections-navbar" class="navbar navbar-gold center">
+		<div class="container-fluid">
+			<div class="navbar-header">
+				<span class="navbar-title">Skip To Section</span>
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#sections-menu">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+			</div>
+			<div class="collapse navbar-collapse" id="sections-menu">
+					<ul class="nav navbar-nav">
+
+					</ul>
+												<div class="weather navbar-right">
+											<span class="icon" title="Fair">
+							<span class="wi wi-day-sunny"></span>
+						</span>
+										<span class="location">Orlando, FL</span>
+					<span class="vertical-rule"></span>
+					<span class="temp">88&deg;F</span>
+				</div>
+							</div>
+		</div>
+	</nav>
+		<section id="to-dos" class="bucket-section">
+			<div class="section-header">
+				<div class="section-header-text-wrapper">
+					<span class="section-header-text " style="color: #ffffff" >
+					Life is Good Here					</span>
+				</div>
+														<div class="section-header-image-container">
+						<img class="section-header-image" src="http://www.ucf.edu/students/files/2016/02/Section.jpg" alt="">
+					</div>
+													
+					<div class="section-header-video-container" data-video-src="http://www.ucf.edu/students/files/2016/03/Web-BannerV21.mp4" data-video-width="1280" data-video-height="720" data-video-loop="true">
+						<video class="section-header-video" muted></video>
+					</div>
+							</div>
+			<div class="container">
+				<h2 class="section-title">A Campus of Opportunity</h2>
+				<p class="lead">Attending the second-largest university in the nation has its perks. Enjoying sunshine and great weather in Orlando, Florida  just happen to be a bonus.</p>
+				<div class="row">
+					<div class="col-md-5 col-sm-6 col-xs-12 no-pad">
+																	<img class="img-responsive section-image" src="http://www.ucf.edu/students/files/2016/02/Welcome-to-UCF-secondary-img-1.jpg">
+										</div>
+					<div class="col-md-6 col-md-offset-1 col-sm-6 section-content">
+						<p>Established in 1963, UCF offers more than 210 degree programs and countless opportunities to 63,000 students. Go beyond the stats, though, and you begin to see what it’s like to be a Knight. From a state-of-the-art Recreation and Wellness Center and diverse dining options to exciting housing communities and a bustling Student Union, there’s something for everyone outside of the classroom.</p>
+												<div class="menu-wrapper">
+							<h2>Explore Further</h2>
+							<ul id="menu-to-dos-menu" class="menu"><li id="menu-item-122" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-122"><a href="http://studentunion.ucf.edu/">Student Union</a></li>
+<li id="menu-item-123" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-123"><a href="http://events.ucf.edu/upcoming">Events and Activities</a></li>
+<li id="menu-item-124" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-124"><a href="http://map.ucf.edu/locations/food/">Restaurants and Eateries</a></li>
+<li id="menu-item-245" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-245"><a href="http://www.housing.ucf.edu/">Housing</a></li>
+<li id="menu-item-236" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-236"><a href="http://career.ucf.edu/">Career Services</a></li>
+</ul>						</div>
+											</div>
+				</div>
+			</div>
+		</section>
+
+        <aside class="callout" style="background: #ffcc00; color: #000;">
+            <div class="container">
+                </p>
+		<div class="icon-link">
+			<a href="http://www.ucf.edu/degree-search/" target="_blank">
+				<div class="icon-wrapper">
+					<span class="fa fa-th-list"></span>
+				</div>
+				<h3>Available Degrees</h3>
+				<p>Search UCF majors, minors, masters, doctoral degrees and more</p>
+			</a>
+		</div>
+
+		<div class="icon-link">
+			<a href="http://admissions.ucf.edu/visit/" target="_blank">
+				<div class="icon-wrapper">
+					<span class="fa fa-map-marker"></span>
+				</div>
+				<h3>Schedule A Tour</h3>
+				<p>Take a tour of the campus and see if UCF is right for you</p>
+			</a>
+		</div>
+
+		<div class="icon-link">
+			<a href="https://www.ucf.edu/apply-to-ucf/" target="_blank">
+				<div class="icon-wrapper">
+					<span class="fa fa-pencil-square-o"></span>
+				</div>
+				<h3>Apply Now</h3>
+				<p>Whether you're new or applying for graduate school, get started now</p>
+			</a>
+		</div>
+
+<p>
+            </div>
+        </aside>
+
+		<section id="lets-get-started" class="bucket-section">
+			<div class="section-header">
+				<div class="section-header-text-wrapper">
+					<span class="section-header-text " style="color: #ffffff" >
+					Our Support. Your Success.					</span>
+				</div>
+														<div class="section-header-image-container">
+						<img class="section-header-image" src="http://www.ucf.edu/students/files/2016/02/Advising-and-Academic-Header-2.jpg" alt="">
+					</div>
+											</div>
+			<div class="container">
+				<h2 class="section-title">Advising and Academic Resources</h2>
+				<p class="lead">What’s the secret to success? It starts with a visit to your advisor &mdash; but that’s no secret.</p>
+				<div class="row">
+					<div class="col-md-5 col-sm-6 col-xs-12 no-pad">
+																	<img class="img-responsive section-image" src="http://www.ucf.edu/students/files/2016/02/Advising-Featured-Image.jpg">
+										</div>
+					<div class="col-md-6 col-md-offset-1 col-sm-6 section-content">
+						<p>Academic advisors help you make important decisions like choosing classes, selecting a major and staying on track for graduation. Need to know about registration, financial aid, career options and dozens of other details? We can help with that, too. Get to know your UCF advisor and you’ll go far.</p>
+												<div class="menu-wrapper">
+							<h2>Explore Further</h2>
+							<ul id="menu-advising-menu" class="menu"><li id="menu-item-212" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-212"><a href="http://registrar.ucf.edu/resources">Register for Classes</a></li>
+<li id="menu-item-213" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-213"><a href="https://my.ucf.edu">Academic Tools</a></li>
+<li id="menu-item-214" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-214"><a href="http://fyae.sdes.ucf.edu/">Advising</a></li>
+<li id="menu-item-225" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-225"><a href="http://catalog.ucf.edu">Course Catalog</a></li>
+<li id="menu-item-226" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-226"><a href="http://bookstore.ucf.edu">Bookstore</a></li>
+<li id="menu-item-250" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-250"><a href="http://library.ucf.edu">Library</a></li>
+</ul>						</div>
+											</div>
+				</div>
+			</div>
+		</section>
+
+        <aside class="callout" style="background: #000000; color: #ffffff;">
+            <div class="container">
+                </p>
+    <div class="calendar-events">
+        <div class="row">
+            <div class="col-md-12">
+                <h2><span class="fa fa-calendar-o icon"></span> Academic Calendar</h2>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-4 first-item">
+                <h3>Up Next</h3>
+                                            <a href="http://calendar.ucf.edu/2017/spring/#event1009" target="_blank">
+                        <div class="event-details event-date-range">
+                            <h4 class="time">March 13 - January 7</h4>
+                            <span class="title">Early Registration</span>
+                            <p>Under Multiple Term Registration, undergraduates with a declared major and UCF GPA of 3.5 or higher will receive their appointment dates and times for Summer 2015, Fall 2015 and Spring 2016 beginning March 2, 2015. Registration for these students will begin on or after the date listed.</p>
+                        </div>
+                        </a>
+                                </div>
+            <div class="col-md-8 vertical-border">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h3>Looking Ahead</h3>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                                                                    <a href="http://calendar.ucf.edu/2017/spring/#event1015" target="_blank">
+                            <div class="row event">
+                                <div class="col-md-12 event-details">
+                                    <h4 class="time">October 23 - January 7</h4>
+                                    <p>Registration</p>
+                                </div>
+                            </div>
+                        </a>
+                                                                                            <a href="http://calendar.ucf.edu/2017/spring/#event1021" target="_blank">
+                            <div class="row event">
+                                <div class="col-md-12 event-details">
+                                    <h4 class="time">January 6</h4>
+                                    <p>Registration for State Employees, UCF Employees, UCFAA Employees, Non-Degree, Transients, and Audits</p>
+                                </div>
+                            </div>
+                        </a>
+                                                                                            <a href="http://calendar.ucf.edu/2017/spring/#event1022" target="_blank">
+                            <div class="row event">
+                                <div class="col-md-12 event-details">
+                                    <h4 class="time">January 6</h4>
+                                    <p>Registration for Senior Citizen Audits</p>
+                                </div>
+                            </div>
+                        </a>
+                                                    </div>
+                            <div class="col-md-6">
+                                                                                            <a href="http://calendar.ucf.edu/2017/spring/#event1024" target="_blank">
+                            <div class="row event">
+                                <div class="col-md-12 event-details">
+                                    <h4 class="time">January 8</h4>
+                                    <p>Classes Begin</p>
+                                </div>
+                            </div>
+                        </a>
+                                                                                            <a href="http://calendar.ucf.edu/2017/spring/#event1152" target="_blank">
+                            <div class="row event">
+                                <div class="col-md-12 event-details">
+                                    <h4 class="time">January 8 - 12</h4>
+                                    <p>Faculty to confirm academic activity in each class</p>
+                                </div>
+                            </div>
+                        </a>
+                                                                                            <a href="http://calendar.ucf.edu/2017/spring/#event1025" target="_blank">
+                            <div class="row event">
+                                <div class="col-md-12 event-details">
+                                    <h4 class="time">January 8 - 13</h4>
+                                    <p>Late Registration</p>
+                                </div>
+                            </div>
+                        </a>
+                                                    </div>
+                            <div class="col-md-6">
+                                                            </div>
+            </div>
+        </div>
+        <a class="all-link" href="http://calendar.ucf.edu/">More Academic Calendar Dates &rsaquo;</a>
+    </div>
+
+<p>
+            </div>
+        </aside>
+
+		<section id="tuition-financial-aid" class="bucket-section">
+			<div class="section-header">
+				<div class="section-header-text-wrapper">
+					<span class="section-header-text " style="color: #ffffff" >
+					Financial Checks & Balances					</span>
+				</div>
+														<div class="section-header-image-container">
+						<img class="section-header-image" src="http://www.ucf.edu/students/files/2016/02/Tuition-and-Aid-Header-v2.jpg" alt="">
+					</div>
+											</div>
+			<div class="container">
+				<h2 class="section-title">Tuition and Financial Aid</h2>
+				<p class="lead">A college degree should create a lifetime of opportunities, not a lifetime of debt. At UCF, 48 percent of students graduate without any educational debt. Compare that to 33 percent nationally and you can see why UCF is gaining interest &mdash; in a good way.<br />
+</p>
+				<div class="row">
+					<div class="col-md-5 col-sm-6 col-xs-12 no-pad">
+																	<img class="img-responsive section-image" src="http://www.ucf.edu/students/files/2016/02/tuition-and-aid-Secondary-img-v2.jpg">
+										</div>
+					<div class="col-md-6 col-md-offset-1 col-sm-6 section-content">
+						<p>Daunted by dollar signs? Don’t be. The Office of Financial Assistance is your go-to place for understanding how to pay for college and make the best of your investment. Our team will help you search for scholarships, apply for financial aid, find student jobs and make smart decisions about loans. We can even help you budget for the fun stuff, like spring break and a semester abroad.</p>
+												<div class="menu-wrapper">
+							<h2>Explore Further</h2>
+							<ul id="menu-tuition-and-financial-aid-menu" class="menu"><li id="menu-item-215" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-215"><a href="http://finaid.ucf.edu/">Financial Aid Office</a></li>
+<li id="menu-item-216" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-216"><a href="http://finaid.ucf.edu/scholarships/index.html">College Scholarships</a></li>
+<li id="menu-item-217" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-217"><a href="http://finaid.ucf.edu/index.html">Student Employment</a></li>
+<li id="menu-item-218" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-218"><a href="http://finaid.ucf.edu/loans/programs.html">Loans</a></li>
+</ul>						</div>
+											</div>
+				</div>
+			</div>
+		</section>
+
+<p>&nbsp;</p>
+		<section id="recreation-activities" class="bucket-section">
+			<div class="section-header">
+				<div class="section-header-text-wrapper">
+					<span class="section-header-text " style="color: #ffffff" >
+					Adventures Are Everywhere					</span>
+				</div>
+														<div class="section-header-image-container">
+						<img class="section-header-image" src="http://www.ucf.edu/students/files/2016/02/recreation-header.jpg" alt="">
+					</div>
+											</div>
+			<div class="container">
+				<h2 class="section-title">Recreation and Activities</h2>
+				<p class="lead">College is about so much more than textbooks and tests. Outside of the classroom, UCF is buzzing with events and activities like concerts and art shows, sports and student clubs, volunteer opportunities and outdoor adventures &mdash; to name a few.</p>
+				<div class="row">
+					<div class="col-md-5 col-sm-6 col-xs-12 no-pad">
+																	<img class="img-responsive section-image" src="http://www.ucf.edu/students/files/2016/02/rec-and-activities-Secondary-img-v2.jpg">
+										</div>
+					<div class="col-md-6 col-md-offset-1 col-sm-6 section-content">
+						<p>Bored? Not when you’re a Knight. With more than 600 student clubs and organizations and an events calendar jam-packed with activities, UCF has plenty of athletic, artistic and intriguing ways to be entertained, get fit and get involved. Take a quick trip off campus to take advantage of Orlando’s theme parks and cultural hotspots, as well as nearby springs and beaches for some fun in the sun.</p>
+												<div class="menu-wrapper">
+							<h2>Explore Further</h2>
+							<ul id="menu-recreation-menu" class="menu"><li id="menu-item-219" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-219"><a href="https://ucf.collegiatelink.net/Organizations">Clubs and Organizations</a></li>
+<li id="menu-item-220" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-220"><a href="http://rwc.sdes.ucf.edu/">Recreation and Wellness Center</a></li>
+<li id="menu-item-221" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-221"><a href="http://ucfsga.com/">Student Government Association</a></li>
+<li id="menu-item-234" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-234"><a href="http://rwc.sdes.ucf.edu/programs/intramural-sports">Intramural Sports</a></li>
+<li id="menu-item-235" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-235"><a href="http://ucf.campusdish.com/">Dining Services</a></li>
+</ul>						</div>
+											</div>
+				</div>
+			</div>
+		</section>
+
+		<section id="health-wellness" class="bucket-section">
+			<div class="section-header">
+				<div class="section-header-text-wrapper">
+					<span class="section-header-text " >
+					Find Your Balance					</span>
+				</div>
+														<div class="section-header-image-container">
+						<img class="section-header-image" src="http://www.ucf.edu/students/files/2016/03/Healthy-and-Happy-Header.jpg" alt="">
+					</div>
+											</div>
+			<div class="container">
+				<h2 class="section-title">Health and Wellness</h2>
+				<p class="lead">Fact: college can be stressful. Fallacy: you have to deal with it on your own. We understand the importance of maintaining physical and emotional health. That’s why Knights have access to on-campus doctors, counselors, dietitians and a full-service pharmacy, plus a variety of fitness resources.</p>
+				<div class="row">
+					<div class="col-md-5 col-sm-6 col-xs-12 no-pad">
+																	<img class="img-responsive section-image" src="http://www.ucf.edu/students/files/2016/03/Healthy-and-Happy-secondary-v4.jpg">
+										</div>
+					<div class="col-md-6 col-md-offset-1 col-sm-6 section-content">
+						<p>All students have access to our 149,000-square-foot facilities with fitness equipment, track, multipurpose courts and climbing wall, plus outdoor amenities like sand volleyball courts, a leisure pool, lap pool and intramural sports fields.</p>
+<p>From primary care and dentistry to psychiatry and other specialty care, UCF’s Health Services has a team of experts to treat just about anything. Students can even schedule a one-on-one consultation with a clinical dietitian to discuss weight management, eating disorders, diabetes and more.</p>
+<p>Keeping your mind healthy is equally important, and it’s easy with the help of UCF Cares. Focused on overall well-being, UCF Cares is committed to making every student feel safe, empowered, respected and included.</p>
+												<div class="menu-wrapper">
+							<h2>Explore Further</h2>
+							<ul id="menu-health-menu" class="menu"><li id="menu-item-227" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-227"><a href="https://shs.sdes.ucf.edu/">Health Services</a></li>
+<li id="menu-item-228" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-228"><a href="http://rwc.sdes.ucf.edu/programs/fitness">Fitness Programs</a></li>
+<li id="menu-item-229" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-229"><a href="http://caps.sdes.ucf.edu/services">Counseling Services</a></li>
+<li id="menu-item-230" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-230"><a href="https://shs.sdes.ucf.edu/services/pharmacy">Pharmacy</a></li>
+<li id="menu-item-231" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-231"><a href="http://ucfcares.com">UCF Cares</a></li>
+</ul>						</div>
+											</div>
+				</div>
+			</div>
+		</section>
+
+
+<section id="map" class="map-search">
+    <div class="search-box-container">
+        <div class="section-header-text-wrapper">
+            <h2 class="section-header-text">Locate Student Services on Campus</h2>
+            <form class="search-form" action="http://map.ucf.edu">
+                <input class="search-term" type="text" name="s" placeholder="First Year Experience, Career Services, Etc.">
+                <button class="search-button" type="submit"><span class="fa fa-search"></span><span class="fa fa-spinner fa-spin"></span></button>
+            </form>
+        </div>
+    </div>
+</section>
+
+
+</article>
+		</main>
+		<footer class="site-footer">
+			<div class="container">
+				<div class="row">
+					<div class="wrapper">
+						<div class="col-sm-4">
+							<div class="footer-col left-col">
+								<h2>News</h2>
+									<div class="footer-news">
+			<a href="http://today.ucf.edu/we-all-should-strive-to-be-the-palm-in-the-storm/">
+			<div class="row news-item">
+				<div class="col-xs-2 col-sm-4 col-md-3">
+					<div class="news-thumbnail">
+											<img class="img-responsive" src="http://today.ucf.edu/files/2016/03/UCF-Forum-column.jpg?#" alt="Feed image for We All Should Strive To Be the Palm in the Storm">
+										</div>
+				</div>
+				<div class="col-xs-10 col-sm-8 col-md-9">
+					<div class="news-details">
+						<h3>We All Should Strive To Be the Palm in the Storm</h3>
+					</div>
+				</div>
+			</div>
+		</a>
+			<a href="http://today.ucf.edu/ucf-hosts-heart-walk-saturday/">
+			<div class="row news-item">
+				<div class="col-xs-2 col-sm-4 col-md-3">
+					<div class="news-thumbnail">
+											<img class="img-responsive" src="http://today.ucf.edu/files/2016/09/ucf_17086535-e1473256518775.jpg?#" alt="Feed image for UCF Hosts Heart Walk This Saturday">
+										</div>
+				</div>
+				<div class="col-xs-10 col-sm-8 col-md-9">
+					<div class="news-details">
+						<h3>UCF Hosts Heart Walk This Saturday</h3>
+					</div>
+				</div>
+			</div>
+		</a>
+			<a href="http://today.ucf.edu/little-prince-osiris-rex-dream-come-true-ucf-professor/">
+			<div class="row news-item">
+				<div class="col-xs-2 col-sm-4 col-md-3">
+					<div class="news-thumbnail">
+											<img class="img-responsive" src="http://today.ucf.edu/files/2011/09/humbertoparis2.jpg?#" alt="Feed image for From The Little Prince to OSIRIS-REx, A Dream Come True for UCF Professor">
+										</div>
+				</div>
+				<div class="col-xs-10 col-sm-8 col-md-9">
+					<div class="news-details">
+						<h3>From The Little Prince to OSIRIS-REx, A Dream Come True for UCF Professor</h3>
+					</div>
+				</div>
+			</div>
+		</a>
+		</div>
+							</div>
+							<a class="all-link" href="http://today.ucf.edu">More News &rsaquo;</a>
+						</div>
+						<div class="col-sm-4">
+							<div class="footer-col center-col">
+								<h2>Events</h2>
+								    <div class="footer-events">
+                    <a href="http://events.ucf.edu/event/265787/safe-zone-series-lgbtq-101/" target="_blank">
+        	<div class="row event">
+	        	<div class="col-xs-2 col-sm-4 col-md-3">
+	        		<div class="event-date">
+	        			<span class="month">Sep</span>
+	                	<span class="day">7</span>
+	               	</div>
+	        	</div>
+	        	<div class="col-xs-10 col-sm-8 col-md-9">
+	        		<div class="event-details">
+		                <h4>Safe Zone Series: LGBTQ+ 101</h4>
+		                		                <p class="time">9:00 am - 11:00 am</p>
+		            </div>
+	        	</div>
+	    	</div>
+	    </a>
+                    <a href="http://events.ucf.edu/event/275182/be-aware-show-you-care/" target="_blank">
+        	<div class="row event">
+	        	<div class="col-xs-2 col-sm-4 col-md-3">
+	        		<div class="event-date">
+	        			<span class="month">Sep</span>
+	                	<span class="day">7</span>
+	               	</div>
+	        	</div>
+	        	<div class="col-xs-10 col-sm-8 col-md-9">
+	        		<div class="event-details">
+		                <h4>Be Aware.  Show You Care.</h4>
+		                		                <p class="time">9:00 am - 1:00 pm</p>
+		            </div>
+	        	</div>
+	    	</div>
+	    </a>
+                    <a href="http://events.ucf.edu/event/273159/transfer-reception/" target="_blank">
+        	<div class="row event">
+	        	<div class="col-xs-2 col-sm-4 col-md-3">
+	        		<div class="event-date">
+	        			<span class="month">Sep</span>
+	                	<span class="day">7</span>
+	               	</div>
+	        	</div>
+	        	<div class="col-xs-10 col-sm-8 col-md-9">
+	        		<div class="event-details">
+		                <h4>Transfer Reception</h4>
+		                		                <p class="time">11:00 am - 12:30 pm</p>
+		            </div>
+	        	</div>
+	    	</div>
+	    </a>
+                    <a href="http://events.ucf.edu/event/257261/citi-bank-lunch-learn/" target="_blank">
+        	<div class="row event">
+	        	<div class="col-xs-2 col-sm-4 col-md-3">
+	        		<div class="event-date">
+	        			<span class="month">Sep</span>
+	                	<span class="day">7</span>
+	               	</div>
+	        	</div>
+	        	<div class="col-xs-10 col-sm-8 col-md-9">
+	        		<div class="event-details">
+		                <h4>Citi Bank Lunch &amp; Learn</h4>
+		                		                <p class="time">11:00 am - 12:00 pm</p>
+		            </div>
+	        	</div>
+	    	</div>
+	    </a>
+        </div>
+							</div>
+							<a class="all-link more-events-link" href="http://events.ucf.edu">More Events &rsaquo;</a>
+						</div>
+						<div class="col-sm-4">
+							<div class="footer-col right-col">
+								<h2>Contact Us</h2>
+									<h2 class="org-name"></h2>
+	<p>Phone: <a class="read-more" href="tel:4078234625">407-823-4625</a></p>
+	<p>Email: <a class="read-more" href="mailto:sdes@ucf.edu">sdes@ucf.edu</a></p>
+								<h2>Questions and Comments</h2>
+								
+                <div class='gf_browser_ie gform_wrapper' id='gform_wrapper_1' ><form method='post' enctype='multipart/form-data'  id='gform_1'  action='/students/'>
+                        <div class='gform_body'><ul id='gform_fields_1' class='gform_fields top_label form_sublabel_below description_below'><li id='field_1_1' class='gfield gfield_contains_required field_sublabel_below field_description_below' ><label class='gfield_label' for='input_1_1' >Name<span class='gfield_required'>*</span></label><div class='ginput_container ginput_container_text'><input name='input_1' id='input_1_1' type='text' value='' class='large'  tabindex='1'  placeholder='Name' aria-required="true" aria-invalid="false" /></div></li><li id='field_1_2' class='gfield gfield_contains_required field_sublabel_below field_description_below' ><label class='gfield_label' for='input_1_2' >Email<span class='gfield_required'>*</span></label><div class='ginput_container ginput_container_email'>
+                            <input name='input_2' id='input_1_2' type='text' value='' class='large' tabindex='2'   placeholder='Email'/>
+                        </div></li><li id='field_1_3' class='gfield gfield_contains_required field_sublabel_below field_description_below' ><label class='gfield_label' for='input_1_3' >Request<span class='gfield_required'>*</span></label><div class='ginput_container'><textarea name='input_3' id='input_1_3' class='textarea medium' tabindex='3'  placeholder='What can we help you with?' aria-required="true" aria-invalid="false"   rows='10' cols='50'></textarea></div></li><li id='field_1_4' class='gfield gform_validation_container field_sublabel_below field_description_below' ><label class='gfield_label' for='input_1_4' >Name</label><div class='ginput_container'><input name='input_4' id='input_1_4' type='text' value='' /></div><div class='gfield_description'>This field is for validation purposes and should be left unchanged.</div></li>
+                            </ul></div>
+        <div class='gform_footer top_label'> <input type='submit' id='gform_submit_button_1' class='gform_button button' value='Submit' tabindex='4' onclick='if(window["gf_submitting_1"]){return false;}  window["gf_submitting_1"]=true;  ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_1"]){return false;} window["gf_submitting_1"]=true;  jQuery("#gform_1").trigger("submit",[true]); }' /> 
+            <input type='hidden' class='gform_hidden' name='is_submit_1' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='1' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_1' value='WyJbXSIsIjRmNjM4MzYyOTc4ZGE4NDZmMjE4YzZkNzFlMmQ4OTgwIl0=' />
+            <input type='hidden' class='gform_hidden' name='gform_target_page_number_1' id='gform_target_page_number_1' value='0' />
+            <input type='hidden' class='gform_hidden' name='gform_source_page_number_1' id='gform_source_page_number_1' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div><script type='text/javascript'> jQuery(document).bind('gform_post_render', function(event, formId, currentPage){if(formId == 1) {if(typeof Placeholders != 'undefined'){
+                        Placeholders.enable();
+                    }} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} );</script><script type='text/javascript'> jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [1, 1]) } ); </script>							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="main-site-footer">
+				<div class="container">
+					<p class="main-site-title">University of Central Florida</p>
+						<div class="social">
+			<a href="https://www.facebook.com/UCF" target="_blank" class="social-icon ga-event-link">
+			<span class="fa fa-facebook"></span>
+			<span class="sr-only">Like us on Facebook</span>
+		</a>
+				<a href="http://twitter.com/UCF" target="_blank" class="social-icon ga-event-link">
+			<span class="fa fa-twitter"></span>
+			<span class="sr-only">Follow us on Twitter</span>
+		</a>
+				<a href="https://plus.google.com/+UCF/" target="_blank" class="social-icon ga-event-link">
+			<span class="fa fa-google-plus"></span>
+			<span class="sr-only">Follow us on Google+</span>
+		</a>
+				<a href="https://www.linkedin.com/edu/university-of-central-florida-18118" target="_blank" class="social-icon ga-event-link">
+			<span class="fa fa-linkedin"></span>
+			<span class="sr-only">View our LinkedIn page</span>
+		</a>
+					</div>
+						<ul class="list-inline site-footer-menu">
+			<li><a href="http://www.ucf.edu/azindex/">A-Z Index</a></li>
+			<li><a href="http://www.ucf.edu/about-ucf/">About UCF</a></li>
+			<li><a href="http://www.ucf.edu/contact/">Contact UCF</a></li>
+			<li><a href="http://www.ucf.edu/internet-privacy-policy/">Internet Privacy Policy</a></li>
+			<li><a href="http://www.ucf.edu/online">Online Degrees</a></li>
+			<li><a href="http://www.ucf.edu/pegasus">Pegasus</a></li>
+			<li><a href="http://policies.ucf.edu">Policies</a></li>
+			<li><a href="http://regulations.ucf.edu/">Regulations</a></li>
+			<li><a href="http://today.ucf.edu">UCF Today</a></li>
+		</ul>
+				</div>
+			</div>
+			<link rel='stylesheet' id='gforms_reset_css-css'  href='http://www.ucf.edu/students/wp-content/plugins/gravityforms/css/formreset.min.css?ver=2.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_formsmain_css-css'  href='http://www.ucf.edu/students/wp-content/plugins/gravityforms/css/formsmain.min.css?ver=2.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_ready_class_css-css'  href='http://www.ucf.edu/students/wp-content/plugins/gravityforms/css/readyclass.min.css?ver=2.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_browsers_css-css'  href='http://www.ucf.edu/students/wp-content/plugins/gravityforms/css/browsers.min.css?ver=2.0.6' type='text/css' media='all' />
+<script type='text/javascript' src='//universityheader.ucf.edu/bar/js/university-header.js?use-1200-breakpoint=1' id='ucfhb-script'></script>
+<script type='text/javascript' src='http://www.ucf.edu/students/wp-content/themes/Students-Theme/static/js/script.min.js'></script>
+<script type='text/javascript' src='http://www.ucf.edu/students/wp-includes/js/wp-embed.min.js?ver=4.5.3'></script>
+<script type='text/javascript' src='http://www.ucf.edu/students/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.0.6'></script>
+		</footer>
+	</body>
+</html>
+{% endraw %}
